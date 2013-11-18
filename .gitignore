@@ -7,7 +7,7 @@ int A,E,I,O,U;  // large for percantage
 char in [100]; 
 void main() 
 { 
-    cout<<"Enter A Word Or frace"<<endl; 
+    cout<<"Enter A Word Or Phrase"<<endl; 
     cin>>in; 
     k=strlen(in); // counter k take value of the lenght of string 
     cout<<endl; 
